@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "bootstrap5": "^1.1.9",
     "firebase": "^10.8.0",
     "sass": "^1.70.0"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
   }
 }
